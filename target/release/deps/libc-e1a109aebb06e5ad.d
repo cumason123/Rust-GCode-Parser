@@ -1,0 +1,13 @@
+C:\Users\cumason\Documents\workspace\reimagined-octo-fortnight\target\release\deps\liblibc-e1a109aebb06e5ad.rlib: C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\lib.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\macros.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\dox.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\windows.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\mod.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\net.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\cloudabi\mod.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\fuchsia\mod.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\unix\mod.rs
+
+C:\Users\cumason\Documents\workspace\reimagined-octo-fortnight\target\release\deps\libc-e1a109aebb06e5ad.d: C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\lib.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\macros.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\dox.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\windows.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\mod.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\net.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\cloudabi\mod.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\fuchsia\mod.rs C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\unix\mod.rs
+
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\lib.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\macros.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\dox.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\windows.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\mod.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\net.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\cloudabi\mod.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\fuchsia\mod.rs:
+C:\Users\cumason\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\unix\mod.rs:
