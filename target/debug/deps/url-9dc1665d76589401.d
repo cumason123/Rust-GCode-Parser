@@ -1,0 +1,13 @@
+/Users/curtismason/workspace/tmp/target/debug/deps/liburl-9dc1665d76589401.rlib: /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/lib.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/encoding.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/host.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/origin.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/path_segments.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/parser.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/slicing.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/form_urlencoded.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/quirks.rs
+
+/Users/curtismason/workspace/tmp/target/debug/deps/url-9dc1665d76589401.d: /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/lib.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/encoding.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/host.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/origin.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/path_segments.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/parser.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/slicing.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/form_urlencoded.rs /Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/quirks.rs
+
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/lib.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/encoding.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/host.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/origin.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/path_segments.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/parser.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/slicing.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/form_urlencoded.rs:
+/Users/curtismason/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.0/src/quirks.rs:
